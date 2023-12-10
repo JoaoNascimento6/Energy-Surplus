@@ -1,9 +1,8 @@
 # Energy-Exchange-Website
 
+![Asset 3](https://github.com/JoaoNascimento6/Energy-Surplus/assets/120685146/17c1dc11-5b3b-4f0f-a8b1-098f12eefefb)
 
-
-
-The objective proposed by the Integrated Project III course was to create a web application that allows a user to buy or sell energy. The 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱, 𝗕𝗮𝗰𝗸𝗲𝗻𝗱, 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 (Frontend, Backend, Database) and their respective prototypes were developed. 
+The objective proposed by the Integrated Project III course was to create a web application that allows a user to buy or sell energy. The 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱, 𝗕𝗮𝗰𝗸𝗲𝗻𝗱, 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 (Frontend, Backend, Database) and their respective prototypes were developed.
 Technologies such as 𝗙𝗶𝗴𝗺𝗮, 𝗥𝗲𝗮𝗰𝘁, 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽, 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, 𝗣𝗼𝘀𝘁𝗿𝗲𝗦𝗤𝗟, and 𝗦𝗲𝗾𝘂𝗲𝗹𝗶𝘇𝗲 were used for the development.
 
 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 𝗖𝗼𝗻𝘁𝗲𝗻𝘁:
